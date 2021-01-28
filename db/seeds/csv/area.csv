@@ -1,0 +1,3 @@
+id,prefecture_id,name,address,latitude,longitude,geom,is_active
+1,13,東京駅,東京都千代田区丸の内一丁目,35.681167,139.767052,'',true
+2,27,大阪駅,大阪府大阪市北区梅田三丁目,34.702485,135.495951,'',true

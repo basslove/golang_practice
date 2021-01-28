@@ -1,0 +1,9 @@
+id,sight_category_id,name,image,is_active
+1,1,公園,,active
+2,1,温泉,,active
+3,1,美術館,,active
+4,2,旅館,,active
+5,2,ホテル,,active
+6,3,アイスクリーム,,active
+7,3,イタリアン,,active
+8,3,スパニッシュ,,active

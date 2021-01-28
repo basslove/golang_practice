@@ -1,0 +1,6 @@
+id,user_id,name,level,is_belong_at,is_god,is_active
+1,1,test-user1,normal,自社,true,true
+2,2,test-user2,normal,自社,false,true
+3,3,test-user3,normal,自社,false,true
+4,4,test-user4,normal,自社,false,true
+5,5,test-user5,normal,自社,false,true
